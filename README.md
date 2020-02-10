@@ -1,3 +1,3 @@
 ﻿# aspnetcoreapi
 ## technical
---entiyFrameworkCore
+-- entiyFrameworkCore
